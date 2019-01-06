@@ -1,2 +1,3 @@
-# mern-music-app
-this is a practice MERN app. 
+# mongo-music-app
+
+this is a practice Mongo app.
